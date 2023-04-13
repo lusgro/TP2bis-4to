@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\TP2 bis\bin\Debug\net7.0\TP2 bis.exe
+C:\Users\Lucas\Downloads\TP2 bis\bin\Debug\net7.0\TP2 bis.deps.json
+C:\Users\Lucas\Downloads\TP2 bis\bin\Debug\net7.0\TP2 bis.runtimeconfig.json
+C:\Users\Lucas\Downloads\TP2 bis\bin\Debug\net7.0\TP2 bis.dll
+C:\Users\Lucas\Downloads\TP2 bis\bin\Debug\net7.0\TP2 bis.pdb
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.dll
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\refint\TP2 bis.dll
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.pdb
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\TP2 bis.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\TP2 bis\obj\Debug\net7.0\ref\TP2 bis.dll
